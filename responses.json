@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey","hi","hello","hey","whatsup dude"],
+      "responses": ["Hey there i'm Camila","Hi it's me Camila","Greetings from Camila"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later","bye", "goodbye", "see you later"],
+      "responses": ["Loves you rest in peace","Ït's been a long day without you my friend","Goodbye!", "See you soon!", "Take care!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thank you", "Thanks a lot", "Much appreciated","thank you", "thanks a lot", "much appreciated","thanks","love you bro!"],
+      "responses": ["Always welcomes you!","You're welcome!","No mention Bro","Anytime!", "Glad to help!","Love you too Bro!"]
+    },
+    {
+      "tag": "about_chatbot",
+      "patterns": ["What can you do?","what do you do", "Tell me about yourself", "Who created you?","what can you do?", "tell me about yourself", "who created you?"],
+      "responses": ["I'm camila a chatbot designed to assist you with various tasks.","I can answer some questions designed by Tharun", "I can answer your questions and provide information."]
+    },
+    {
+      "tag": "help",
+      "patterns": ["Help", "I need assistance", "Can you help me?","help", "i need assistance", "can you help me?"],
+      "responses": ["How may I help you","Sure, I'm here to help. What do you need assistance with?", "How can I assist you today?"]
+    },
+    {
+      "tag": "default",
+      "patterns": ["zzzzz", "How to get rid of bore?","...."],
+      "responses": ["Do the things you Love the most and spend the time with the people you Love and who loves to spend time with you"]
+    },
+    {
+      "tag": "tharun",
+      "patterns": ["who is tharun kumar", "say about tharun","tharun kumar","tell a few words about tharun"],
+      "responses": ["Tharun Kumar is the creator of the Camila bot","He is a boy who loves to connect and spend time with people","He likes doing and experimenting new things","He Loves travelling and Tharun is the most funniest and coolest guy I have ever seen","He is not the Smartest but some what Intelligent guy."]
+    }
+  ]
+}
+
+
+
+
